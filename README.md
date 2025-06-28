@@ -1,4 +1,4 @@
-# DQ1
+![DQ1](https://www.jp.square-enix.com/dqsp/dq1/images/common/logo_dq1_normal.png)
 
 - [序曲](https://www.youtube.com/watch?v=yj95f0WFc-0)
 - [ラダトーム城](https://www.youtube.com/watch?v=yj95f0WFc-0&t=214s)
@@ -9,7 +9,7 @@
 - [竜王](https://www.youtube.com/watch?v=yj95f0WFc-0&t=1065s)
 - [フィナーレ](https://www.youtube.com/watch?v=yj95f0WFc-0&t=1250s)
   
-# DQ2
+![DQ2](https://www.jp.square-enix.com/dqsp/dq2/images/logo_dq2_normal.png)
 
 - [ドラゴンクエスト・マーチ](https://www.youtube.com/watch?v=IlH4hTSrmUk)
 - [Love Song探して](https://www.youtube.com/watch?v=IlH4hTSrmUk&t=97s)
@@ -29,7 +29,7 @@
 - [死を賭して](https://www.youtube.com/watch?v=IlH4hTSrmUk&t=1782s)
 - [この道わが旅](https://www.youtube.com/watch?v=IlH4hTSrmUk&t=1949s)
 
-# DQ3
+![DQ3](https://www.jp.square-enix.com/dqsp/dq3/images/logo_dq3_normal.png)
 
 - [ロトのテーマ](https://www.youtube.com/watch?v=Qnpxjoa6Eyw)
 - [まどろみの中で](https://www.youtube.com/watch?v=Qnpxjoa6Eyw&t=94s)
