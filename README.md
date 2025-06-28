@@ -31,4 +31,28 @@
 
 # DQ3
 
+- [ロトのテーマ](https://www.youtube.com/watch?v=Qnpxjoa6Eyw)
+- [まどろみの中で](https://www.youtube.com/watch?v=Qnpxjoa6Eyw&t=94s)
+- [王宮のロンド](https://www.youtube.com/watch?v=Qnpxjoa6Eyw&t=333s)
+- [街](https://www.youtube.com/watch?v=Qnpxjoa6Eyw&t=460s)
+- [ジパング](https://www.youtube.com/watch?v=Qnpxjoa6Eyw&t=549s)
+- [ピラミッド](https://www.youtube.com/watch?v=Qnpxjoa6Eyw&t=646s)
+- [村](https://www.youtube.com/watch?v=Qnpxjoa6Eyw&t=714s)
+- [ローリングダイス](https://www.youtube.com/watch?v=Qnpxjoa6Eyw&t=852s)
+- [冒険の旅](https://www.youtube.com/watch?v=Qnpxjoa6Eyw&t=958s)
+- [ダンジョン](https://www.youtube.com/watch?v=Qnpxjoa6Eyw&t=1141s)
+- [塔](https://www.youtube.com/watch?v=Qnpxjoa6Eyw&t=1265s)
+- [幽霊船](https://www.youtube.com/watch?v=Qnpxjoa6Eyw&t=1353s)
+- [回想](https://www.youtube.com/watch?v=Qnpxjoa6Eyw&t=1469s)
+- [鎮魂歌](https://www.youtube.com/watch?v=Qnpxjoa6Eyw&t=1615s)
+- [ほこら](https://www.youtube.com/watch?v=Qnpxjoa6Eyw&t=1699s)
+- [海を越えて](https://www.youtube.com/watch?v=Qnpxjoa6Eyw&t=1784s)
+- [おおぞらをとぶ](https://www.youtube.com/watch?v=Qnpxjoa6Eyw&t=1942s)
+- [戦いのとき](https://www.youtube.com/watch?v=Qnpxjoa6Eyw&t=2100s)
+- [ゾーマの城](https://www.youtube.com/watch?v=Qnpxjoa6Eyw&t=2326s)
+- [戦闘のテーマ](https://www.youtube.com/watch?v=Qnpxjoa6Eyw&t=2525s)
+- [アレフガルドにて](https://www.youtube.com/watch?v=Qnpxjoa6Eyw&t=2620s)
+- [勇者の挑戦](https://www.youtube.com/watch?v=Qnpxjoa6Eyw&t=2692s)
+- [そして伝説へ](https://www.youtube.com/watch?v=Qnpxjoa6Eyw&t=2838s)
+
 
