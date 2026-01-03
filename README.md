@@ -1,5 +1,7 @@
 # Dragon Quest 1
 
+![thumb](https://i.ytimg.com/vi/yj95f0WFc-0/hq720.jpg)
+
 - [序曲](https://www.youtube.com/watch?v=yj95f0WFc-0)
 - [ラダトーム城](https://www.youtube.com/watch?v=yj95f0WFc-0&t=214s)
 - [街の人々](https://www.youtube.com/watch?v=yj95f0WFc-0&t=423s)
@@ -10,6 +12,8 @@
 - [フィナーレ](https://www.youtube.com/watch?v=yj95f0WFc-0&t=1250s)
   
 # Dragon Quest 2 悪霊の神々
+
+![thumb](https://i.ytimg.com/vi/IlH4hTSrmUk/hq720.jpg)
 
 - [ドラゴンクエスト・マーチ](https://www.youtube.com/watch?v=IlH4hTSrmUk)
 - [Love Song探して](https://www.youtube.com/watch?v=IlH4hTSrmUk&t=97s)
@@ -30,6 +34,8 @@
 - [この道わが旅](https://www.youtube.com/watch?v=IlH4hTSrmUk&t=1949s)
 
 # Dragon Quest 3 そして伝説へ
+
+![thumb](https://i.ytimg.com/vi/Qnpxjoa6Eyw/hq720.jpg)
 
 - [ロトのテーマ](https://www.youtube.com/watch?v=Qnpxjoa6Eyw)
 - [まどろみの中で](https://www.youtube.com/watch?v=Qnpxjoa6Eyw&t=94s)
@@ -55,4 +61,12 @@
 - [勇者の挑戦](https://www.youtube.com/watch?v=Qnpxjoa6Eyw&t=2692s)
 - [そして伝説へ](https://www.youtube.com/watch?v=Qnpxjoa6Eyw&t=2838s)
 
+# そのほか
 
+| Channel | Title | time | thumbnail/link |
+|----|----|----|----|
+| [Kenshi Yonezu  米津玄師](https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ) | 米津玄師「Plazma」×『機動戦士Gundam GQuuuuuuX』　Kenshi Yonezu - Plazma × Mobile Suit Gundam GQuuuuuuX　⚠️閲覧注意 | 2:59 | [![thumb](https://i.ytimg.com/vi/2aFgfKtg3V4/hq720.jpg)](https://www.youtube.com/watch?v=2aFgfKtg3V4) |
+| [Kenshi Yonezu  米津玄師](https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ) | 米津玄師 Kenshi Yonezu - Plazma | 3:20 | [![thumb](https://i.ytimg.com/vi/fp3F6TqBsAU/hq720.jpg)](https://www.youtube.com/watch?v=fp3F6TqBsAU) |
+| [Kenshi Yonezu  米津玄師](https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ) | 「FINAL FANTASY XVI」× 米津玄師「月を見ていた」Special MV【ネタバレ注意】Kenshi Yonezu - Tsuki Wo Miteita - Moongazing | 4:29 | [![thumb](https://i.ytimg.com/vi/_tq1qEsp81w/hq720.jpg)](https://www.youtube.com/watch?v=_tq1qEsp81w) |
+| [Kenshi Yonezu  米津玄師](https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ) | 米津玄師 - 月を見ていた Kenshi Yonezu - Tsuki Wo Miteita / Moongazing | 4:29 | [![thumb](https://i.ytimg.com/vi/1kUZ0LoUELI/hq720.jpg)](https://www.youtube.com/watch?v=1kUZ0LoUELI) |
+| [Daoko](https://www.youtube.com/channel/UChZvE2JzSafBDeAJNmwNGGA) | DAOKO × 米津玄師『打上花火』MUSIC VIDEO | 4:52 | [![](https://i.ytimg.com/vi/-tKVN2mAKRI/hq720.jpg)](https://www.youtube.com/watch?v=-tKVN2mAKRI) |
